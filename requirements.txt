@@ -1,0 +1,4 @@
+telethon
+aiomysql
+cryptography
+python-dotenv
